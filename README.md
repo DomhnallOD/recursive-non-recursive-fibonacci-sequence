@@ -1,4 +1,4 @@
-# Euclidean Algorithm
+# Recursive & Non-Recursive Fibonacci Sequence
 Two Java classes containing recursive and non-recursive implementations of functions which generate the Fibonacci sequence. Execute separately.
 
 ## Purpose
